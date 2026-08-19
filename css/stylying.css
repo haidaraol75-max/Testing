@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+
+fieldset{
+    color: blueviolet;
+    border-radius: 10px;
+    border-color: darkgoldenrod;
+}
+table {
+    margin: 0 auto;
+    border-color: aqua;
+    border-style: ridge;
+}
